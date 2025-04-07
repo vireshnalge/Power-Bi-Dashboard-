@@ -19,3 +19,9 @@ This project is focused on building an interactive dashboard to analyze and visu
 
 # Dashboard Interaction
 - < a href = "https://github.com/vireshnalge/Power-Bi-Dashboard-/blob/main/Mobile%20Sales%20Dashboard.jpg"> Dashboard</a>
+# Process
+- Start by analyzing the top KPIs like Total Sales, Total Quantity, Total Transactions, and Average Price to understand overall performance.
+- Use the brand-wise table to identify which brand has the highest sales and most transactions.
+- Refer to the map visualization to compare total sales by different cities and spot top-performing locations.
+- Check the monthly trend line chart to see how sales quantity fluctuates throughout the year and identify peak months.
+- Explore the charts for customer ratings, payment method usage, popular mobile models, and day-wise sales to get insights into customer behavior and preferences.
