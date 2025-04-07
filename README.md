@@ -18,4 +18,4 @@ This project is focused on building an interactive dashboard to analyze and visu
 - Can we identify any weekly patterns in customer purchasing behavior?
 
 # Dashboard Interaction
-- < a href = 
+- < a href = "https://github.com/vireshnalge/Power-Bi-Dashboard-/blob/main/Mobile%20Sales%20Dashboard.jpg"> Dashboard</a>
