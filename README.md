@@ -1,2 +1,5 @@
-# Power-Bi-Dashboard-
-he Mobile Sales Dashboard project focuses on analyzing and visualizing mobile phone sales data to provide actionable business insights. Using Power BI, I built an interactive dashboard that helps stakeholders monitor sales performance, identify top-selling brands, track revenue trends, and make data-driven decisions.
+##Mobile Sales Dashboard – Power BI
+🔍 Overview
+This project is focused on building an interactive dashboard to analyze and visualize mobile phone sales data using Power BI. The dashboard will help businesses monitor performance, track sales trends, and make informed decisions based on actionable insights.
+
+# Dataset used
